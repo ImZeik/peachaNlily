@@ -1,0 +1,142 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/IMG-8280.jpg?v=1708783272&width=800",
+            "title":"Super Oasis Concentrated Serum",
+            "subTitle": "Quench skin with 100-hour hydration.",
+            "content": "Relieve the feel of dry, tight skin and seal in replenishing moisture for 100 hours.1 Formulated with Hydrous Flow Technology, a combination of glycerin, aquaporin booster, and hyaluronic acid flood moisture reservoirs. A nutrient-rich blend of shea butter, baobab, and marula oil support the hydrolipid barrier. Skin looks soft, supple",
+            "price": 30,
+            "discount":true,
+            "new":true,
+            "option":["CRUELTY FREE","CLEAN","VEGAN"]
+  
+        },
+        {
+            "id":1,          
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/Image_01_9270a7f9-700b-40f2-94ef-7afabe31693e.jpg?v=1708607780&width=800",
+            "title":"Ultra Plush Rich Cream",
+            "subTitle": "Revive skin with 100-hour hydration",
+            "content": "Relieve the feel of dry, tight skin and seal in replenishing moisture for 100 hours.1 Formulated with Hydrous Flow Technology, a combination of glycerin, aquaporin booster, and hyaluronic acid flood moisture reservoirs. A nutrient-rich blend of shea butter, baobab, and marula oil support the hydrolipid barrier. Skin looks soft, supple",
+            "price": 27,
+            "discount": false,
+            "new":true,
+            "option":["Dry Skin"]
+  
+        },
+        {
+            "id":2,          
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/Image_01_ecb1618c-a4c1-48a3-aa56-7bee28a7040a.webp?v=1701873185&width=800",
+            "title":"Rescue Party Duo",
+            "subTitle":"Rapidly calm, comfort and nourish reactive skin.",
+            "content": "Need skin barrier relief? This nourishing duo visibly soothes irritated and flaky skin with 0.8% colloidal oatmeal and Korean botanicals, while 5 ceramides and good fats replenish the skin barrier. Our proprietary Calcium Complex supports with calcium, vital for healthy barrier function. Stay calm–your Rescue Party is here.",
+            "price": 90,
+            "discount": false,
+            "new":true,
+            "option":["CRUELTY FREE","Began","100% WORRY FREE","VEGAN"]
+  
+        },
+        {
+            "id":3,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/Image_01_464ade3c-8ae8-4f0d-be14-e814da5382a0.jpg?v=1704745276&width=800",
+            "title":"Glass Skin Refining Serum",
+            "subTitle":"Achieve your healthiest, smoothest, clearest and most luminous skin yet",
+            "content": "Glassy, smooth, luminous, translucent-looking skin is achieved when skin is well hydrated and without inflammation and free radical damage. A revolutionary cocktail of peach extract, niacinamide, East Asian mountain yam, madecassoside, peptides, and hyaluronic acid help to visibly hydrate, calm, brighten and firm skin. Crystal-clear",
+            "price": 45,
+            "discount":false,
+            "new":false,
+            "option":["CRUELTY FREE","Began","100% WORRY FREE"]
+  
+        },       
+        {
+            "id":4,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/Image_01_f9ccee53-3cf5-4b33-9d64-090016ec751a.jpg?v=1704808654&width=800",
+            "title":"Glass Skin Discovery Kit",
+            "subTitle":"Achieve your healthiest, smoothest, clearest and most luminous skin yet",
+            "content": "Looking for skin that's so healthy that pores look smooth and skin looks luminous and clarified? You’re in the right place. Our Glass Skin Discovery Kit features our iconic four-step Glass Skin routine in a convenient trial size. Whether you’re new to Peach & Lily or looking to take your favorite routine on the go, there’s no easier way to achieve Glass Skin quickly.",
+            "price": 39,
+            "discount": true,
+            "new":false,
+            "option":["CRUELTY FREE","GLUTEN FREE","100% WORRY FREE","VEGAN"]
+  
+        },
+        {
+            "id":5,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/Image_01_6bb8eb7d-2c44-4334-881a-b700b387e93a.jpg?v=1704808417&width=800",
+            "title":"Super Reboot Resurfacing Mask",
+            "subTitle":"Gently exfoliates, resurfaces and retexturizes skin",
+            "content": "This is a pro-level wash-off mask that effectively and gently exfoliates, resurfaces and retexturizes skin. Consider this a unique deep-cleansing, purifying, and resurfacing facial where dead skin cells are unglued, impurities deep within pores are [de-gunked] and fresh skin is revealed. If you're dealing with clogged pores, rough patches, or bumps, this mask is for you. The result? Dramatically smoother texture with drastically minimized appearance of fine lines and wrinkles. Give your skin a total reboot.",
+            "price": 45, 
+            "discount": true,
+            "new":true,
+            "option":["CRUELTY FREE","CLEAN","100% WORRY FREE","VEGAN"]
+  
+        },
+        {
+            "id":6,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/Image_01_bee6acce-1857-411b-a11f-c63f75f1b63b.jpg?v=1704807909&width=800",
+            "title":"Peptide Pro Firming Moisturizer",
+            "content": "Firming ingredients can deliver more visible results when skin is also hydrated and the skin barrier is healthy. We crafted a next-generation wrinkle cream that includes a hydrating moisturizer and skin barrier repair cream in the formula – to supercharge your results. We challenged the notion of thicker, traditional wrinkle creams for more mature skin only.",
+            "price": 45, 
+            "discount": false,
+            "new": false,
+            "option":["CRUELTY FREE","CLEAN","100% WORRY FREE","VEGAN","GLUTEN FREE"]
+  
+        },
+        {
+            "id":7,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/products/Be_The_Skin_Botanical_Nutrition_Power_Toner_150mL_BTS115002_CLNT_a74cecfa-4d24-4a3b-a556-65feba91bcdc.jpg?v=1597110577&width=800",
+            "title":"Botanical Nutrition Power Toner",
+            "content": "A royal-jelly infused toner with all-natural ingredients that balances the skin's pH levels and hydrates the skin while helping to improve skin's firmness. Be The Skin Botanical Nutrition Power Toner delivers moisture into the skin and gently preps for serums and lotions. Appropriate for all skin types. Ideal for dry skin.",
+            "price": 39, 
+            "discount": true,
+            "new": false,
+            "option":["GLUTEN FREE","CRUELTY FREE", "VEGAN"]
+  
+        },        
+        {
+            "id":8,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/files/Image_01_AllureSeal.jpg?v=1708113909&width=800",
+            "content": "Melt and remove all makeup, SPF, excess oil and impurities – within seconds. Oil cleansing can be accompanied by leftover-mascara, breakouts or a waxy residue. Ginger Melt Oil Cleanser is your modern oil cleanser crafted with zero compromises. Here's how it works: First, even the toughest makeup and SPF melt off with ease. Confidently use your white towels again. No makeup stains here. Second, a few splashes of water is enough with no need to tug at skin with tissue or cloths.",
+            "title":"Ginger Melt Oil Cleanser",
+            "price": 35, 
+            "discount": false,
+            "new": false,
+            "option":["CRUELTY FREE","CLEAN", "VEGAN","GLUTEN FREE"]
+  
+        },
+        {
+            "id":9,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/products/SnailRescue_Toner_PDP_1000x1140_331de024-dcd8-4758-86d6-8dc62bb341c8.jpg?v=1657638621&width=800",
+            "title":"Snail Rescue Blemish Busting Toner",
+            "content": "Meet the ultimate power couple: two celebrated and time-tested K-Beauty ingredients, snail mucin and cica, uniquely come together to give you super-sized results. This one-of-a-kind breakthrough pairing helps clear pores, zap zits, calm signs of redness, and strengthen your skin barrier. And of course, no snails are harmed! Peach Slices is cruelty-free, Leaping-Bunny certified. The formula is clean, effective and free of filler ingredients to bring your skin only goodness.",
+            "price": 13.99, 
+            "discount": false,
+            "new": false,
+            "option":["DRY SKIN","CRUELTY FREE","CLEAN", "VEGAN","GLUTEN FREE"]
+  
+        },
+        {
+            "id":10,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/products/Be_The_Skin_Botanical_Pore_Toner_150mL_BTS115003_CLNT_6d8b09cd-17dd-4bd8-a88a-1af84df58319.jpg?v=1597110583&width=800",
+            "title":"Botanical Pore Toner",
+            "content": "Today only, May Coop Raw Sauce is 40% off. cannot be combined with Peach Points or other promotions. Raw Sauce is a gentle toner, emulsion and essence in one that intensively hydrates and nourishes the skin. What makes May Coop Raw Sauce special is that it is made with 79% maple tree sap, skin-nourishing fructan powder (eco-cert certified), and Asian herbal and fruit extracts to achieve the appearance of more hydrated and dewier skin. Perfect for all skin types.",
+            "price": 25, 
+            "discount": true,
+            "new": true,
+            "option":["All SKIN","CRUELTY FREE", "VEGAN"]
+  
+        },          
+        {
+            "id":11,
+            "img":"https://cdn.shopify.com/s/files/1/0791/2083/products/PDP_CoconutCleanserAromatica2021.jpg?v=1637254812&width=800",
+            "title": "Natural Coconut Cleansing Oil",
+            "content": "An all-natural, no-frills toner that balances the skin's pH level thanks to botanicals and timeless herbs. Helps prep skin with hydration for following serums and lotions and has herbal botanicals with anti-bacterial properties to combat any trouble-areas on your skin. Appropriate for all skin types. Ideal for combination.",
+            "price": 45, 
+            "discount": false,
+            "new": true,
+            "option":["ALL SKIN", "VEGAN"]
+  
+        }
+    ]
+}
