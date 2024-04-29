@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, useNavigate, Navigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 /* import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from "@fortawesome/free-regular-svg-icons"; */
 import { FaRegUser } from "react-icons/fa";
@@ -10,7 +10,7 @@ import { useAuthContext } from '../hooks/useAuthContext';
 import { useLogout } from '../hooks/useLogout';
 
 
-export const NavBar = () => {
+export const Navbar = () => {
     const { user } = useAuthContext();
     const { logout } = useLogout();
 

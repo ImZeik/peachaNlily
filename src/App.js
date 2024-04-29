@@ -1,13 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { useEffect, useState } from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import { Login } from './pages/Login';
 import { ProductAll } from './pages/ProductAll';
 import { ProductDetail } from './pages/ProductDetail';
-import { NavBar }  from './component/NavBar';
-import { PrivateRoute } from './Route/PrivateRoute';
+import { Navbar } from "./component/Navbar"
 import { useAuthContext } from './hooks/useAuthContext';
+import { Signup } from './pages/Signup';
 
 /* 
 1. 전체상품페이지/상세페이지/로그인
@@ -20,26 +19,26 @@ import { useAuthContext } from './hooks/useAuthContext';
 6. 상품검색
 */
 function App() {
-  const { user } = useAuthContext();
+  const { user } = useAuthContext(); 
 
   return (
     <div className="wrap">
-      <NavBar />
+      <Navbar />
       <Routes>
         <Route path="/" element={<ProductAll />} />
         {/* <Route path="/products/:id" element={<ProductDetail />} /> */}
 
         {/* privateRoute 설정 */}
         {/* <Route path="/product/:id" element={<PrivateRoute authenticate={authenticate} />}/> */}
-        <Route path="/product/:id" element={ user ? <ProductDetail /> : <Navigate replace={true} to='/login' />} />
+        <Route path="/product/:id" element={user ? <ProductDetail />: <Navigate replace={true} to="/login" />}></Route>
 
-        {/* 로그인이 되어있다면 로그인 화면이나 회원가입 화면으로 이동하면 안됨 */}
-        <Route path="/login" element={ !user? <Login /> : <Navigate to='/' replace={true} />} />
-        <Route path='/signup' element={ <Signup/>} />
+        {/* 로그인이 되어있다면 로그인 화면이나 회원가입 화면으로 이동못하게 함. */}
+        <Route path="/login" element={!user ? <Login /> : <Navigate to="/" replace={true} />} />
+        {/* <Route path="/signup" element={!user ? <Signup /> : <Navigate to="/" replace={true} />} /> */}
+        <Route path="/signup" element={<Signup />} />
       </Routes>
-      
     </div>
-  );
+  )
 }
 
 export default App;

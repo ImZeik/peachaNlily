@@ -31,7 +31,7 @@ const AuthContextProvider = ({ children }) => {
         //파이어베이스로부터 유저정보를 받아오면 isAuthReady-> true/true가 된 다음에 화면 렌더링이 실행
         isAuthReady: false
     })
-    //console.log('user state :', state)
+    console.log('user state :', state)
 
     //user의 상태를 계속 체크하는 기능
     //매개변수로 []를 입력하면 처음 렌더링 1번만 업데이트

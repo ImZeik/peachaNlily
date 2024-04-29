@@ -1,4 +1,3 @@
-//useSignup
 import { useState } from 'react';
 import { appAuth } from '../firebase/config';
 import { createUserWithEmailAndPassword, updateProfile } from 'firebase/auth';

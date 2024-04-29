@@ -1,7 +1,6 @@
-//signUP.js
 import { useState } from 'react';
 import { useSignup } from '../hooks/useSignup'
-// import googleLoginImg from '../img/google_login.svg';
+//import googleLoginImg from '../img/google_login.svg';
 import { Form, Container, button } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
 

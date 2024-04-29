@@ -1,4 +1,3 @@
-//useLoutout
 import { useState } from "react";
 import { appAuth } from "../firebase/config";
 import { signOut } from "firebase/auth";
